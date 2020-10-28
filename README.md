@@ -23,13 +23,6 @@
 
 <br />
 
--  Expert: Javascript, ES6, reactjs, html, css.
--  Comfortable: Express, mongodb, firebase, heroku, netlify.
--  Familiar: Nodejs, redux, axios.
--  Tools: VS Code, git, sublime.
-
-<br />
-
 ### My Projects :
 
 1. Travel-Guru: 
