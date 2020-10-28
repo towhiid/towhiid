@@ -30,7 +30,6 @@
 Simple login page for booking.
 Details about hotel rooms of respective destination. 
 
-[Github-Link] (https://github.com/towhiid/travel-guru)
 [Live-Link] (https://travel-guru-route.web.app/)
 
 Technology used:
